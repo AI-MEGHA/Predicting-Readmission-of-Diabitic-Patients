@@ -1,0 +1,2 @@
+# Predicting-Readmission-of-Diabitic-Patients
+Predicting whether a given patient having diabetes will get readmitted within 30 days or not given attributes such as Race, Gender, Diagnosis, Medication, Glucose and changes in other drug prescriptions. The project will also trace out interdependence amongst the features and will aim at providing high level of interpretability as the readers should be able to comprehend the decisions made by the model given the nature of the domain this project is related with. 
